@@ -1,0 +1,21 @@
+p{
+  font-size:12px;
+  color:red;
+}
+
+a{
+  text-decoration: underline;
+  color: blue;
+}
+
+span{
+  text-transform: capitalize;
+}
+
+h1{
+  font-size:22px;
+  background-color:rgb(201, 37, 37);
+  width:100%;
+
+}
+
